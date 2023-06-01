@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnativvered%2Fphraug.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnativvered%2Fphraug?ref=badge_shield)
+
 phraug
 ======
 
@@ -96,3 +98,7 @@ Save a subset of lines from an input file to an output file. Start at _offset_ (
 	
 Unshuffle a previously shuffled file  (or any file) to the original order. Syntax is the same as for `shuffle.py`, but the seed is mandatory so _max. lines in memory_ is mandatory also.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnativvered%2Fphraug.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnativvered%2Fphraug?ref=badge_large)
